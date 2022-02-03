@@ -1,4 +1,4 @@
-# Multi-Sensor-Kit
+# Multi Sensor Kit
 The product is a sensor kit package consisting of different electronic sensors.
 The sensor kit is designed such that we can test the sensors and see the result in the same
 kit which is shown in the display. The basic idea behind this kit is to study the working of
