@@ -37,3 +37,13 @@ SOFTWARES:
 3. Layout Plus: for routing of PCB
 
 4. Coral Draw: for designing the enclosure.
+
+
+<img width="575" alt="Screen Shot 2022-02-03 at 6 40 26 PM" src="https://user-images.githubusercontent.com/98929080/152447626-f501ee59-b316-4f29-bb33-90840a2619a9.png">
+PCB during etching
+
+
+<img width="233" alt="Screen Shot 2022-02-03 at 6 40 36 PM" src="https://user-images.githubusercontent.com/98929080/152447649-a7961ed6-b9da-40ab-b33f-d55cfbe768bd.png">
+
+Main Menu 
+
