@@ -47,3 +47,7 @@ PCB during etching
 
 Main Menu 
 
+<img width="16" alt="Screen Shot 2022-02-03 at 6 49 56 PM" src="https://user-images.githubusercontent.com/98929080/152448495-cff30462-5fdf-4d1c-a5c2-fd8d547f76d3.png">
+
+Flow Chart
+
